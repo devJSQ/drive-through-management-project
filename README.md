@@ -373,4 +373,4 @@ Total: 5.00
 
 - [ ] The code should run successfully.  
 - [ ] All requirements must be implemented.
-- [ ] Test case must run successfully.
+- [ ] Test cases must run successfully.
