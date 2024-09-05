@@ -15,10 +15,10 @@ Manager requirements:
 2. The restaurant should have 2 screens:
 - `Order here` screen. 
   * Create a new order.  
-  * Switch to `Receive here` screen.  
+  * Switch to the `Receive here` screen.  
 - `Receive here` screen.
   * Serve order.   
-  * Switch to `Order here` screen.
+  * Switch to the `Order here` screen.
 
 
 
