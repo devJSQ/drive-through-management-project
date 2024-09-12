@@ -94,7 +94,7 @@ Receive here screen
 ---------------------------
 1- Serve order.  
 2- Print all pending orders.  
-3- Switch to (Receive here screen).  
+3- Switch to (Order here screen).  
 ````  
 
 Option `1` Serve order:     
@@ -306,7 +306,7 @@ Receive here screen
 ---------------------------
 1- Serve order.  
 2- Print all pending orders.  
-3- Switch to (Receive here screen).  
+3- Switch to (Order here screen).  
 ````
 
 User choose `2`
@@ -338,7 +338,7 @@ Receive here screen
 ---------------------------
 1- Serve order.  
 2- Print all pending orders.  
-3- Switch to (Receive here screen).  
+3- Switch to (Order here screen).  
 ````
 
 User choose `1`
@@ -348,7 +348,7 @@ Receive here screen
 ---------------------------
 1- Serve order.  
 2- Print all pending orders.  
-3- Switch to (Receive here screen).  
+3- Switch to (Order here screen).  
 ````
 
 User choose `2`
